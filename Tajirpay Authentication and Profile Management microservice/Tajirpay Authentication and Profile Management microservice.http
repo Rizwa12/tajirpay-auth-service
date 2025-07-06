@@ -1,0 +1,6 @@
+@Tajirpay_Authentication_and_Profile_Management_microservice_HostAddress = http://localhost:5149
+
+GET {{Tajirpay_Authentication_and_Profile_Management_microservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

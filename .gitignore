@@ -1,0 +1,40 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# DotCover
+*.dotCover
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Npm
+node_modules/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Others
+*.log
+*.cache
+*.db
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
